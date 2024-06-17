@@ -6,6 +6,12 @@ All notable changes to the "Project Dashboard" extension will be documented in t
 
 ### Fixed
 
+- Change Repository URL username change (jfhib -> iblea)
+
+## [2.8.1] 2024-06-08
+
+### Fixed
+
 - Change Repository URL
 
 ## [2.8.0] 2024-06-08
